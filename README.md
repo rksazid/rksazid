@@ -1,4 +1,8 @@
-### Assalamu Alaikum 👋
+### Assalamu Alaikum 👋 Welcome to my github profile
+## MD. Rezaul karim
+# Junior Software Engineer, Nascenia Ltd.
+# B.Sc. in Computer Science & Engineering at Khulna University of Engineering & Technology
+
 <a href="https://github.com/rksazid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rksazid&count_private=true&show_icons=true" />
 </a>
