@@ -1,6 +1,6 @@
 ### Assalamu Alaikum 👋 Welcome to my github profile
 #### MD. Rezaul Karim
-##### Junior Software Engineer, Nascenia Ltd. (MARCH 2019 - PRESENT)
+##### Software Engineer, Nascenia Ltd. (MARCH 2019 - PRESENT)
 ###### FULL STACK WEB DEVELOPER (Front-end: React JS, Back-end: Ruby on Rails)
 
 ##### B.Sc. in Computer Science & Engineering at Khulna University of Engineering & Technology (KUET)
