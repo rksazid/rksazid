@@ -6,12 +6,12 @@
 ##### B.Sc. in Computer Science & Engineering at Khulna University of Engineering & Technology (KUET)
 ###### GRADUATION YEAR: 2019
 <img align='right' src="https://komarev.com/ghpvc/?username=rksazid&label=PROFILE+VIEWS&style=for-the-badge" alt="rksazid" />
-<a href="https://github.com/rksazid">
+<!-- <a href="https://github.com/rksazid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rksazid&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/rksazid">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rksazid" />
-</a>
+</a> -->
 
 <!--
 **rksazid/rksazid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
