@@ -1,5 +1,5 @@
-### Assalamu Alaikum 👋 Welcome to my github profile
-# MD. Rezaul Karim
+### Assalamu Alaikum 👋 Welcome to my GitHub profile
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> I'm [MD. Rezaul](https://rksazid.github.io/) Karim
 > *Senior Software Engineer, Nascenia Ltd. (MARCH 2019 - PRESENT)*
 ###### FULL STACK WEB DEVELOPER (Front-end: React JS, Back-end: Ruby on Rails)
 
