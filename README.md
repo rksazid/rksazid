@@ -1,6 +1,6 @@
 ### Assalamu Alaikum 👋 Welcome to my GitHub profile
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="70px"> I'm [MD. Rezaul](https://rksazid.github.io/) Karim
-> *Senior Software Engineer, Nascenia Ltd. (MARCH 2019 - PRESENT)*
+> *Lead Software Engineer, Red Dot Digital Ltd. (January 2024 - PRESENT)*
 ###### FULL STACK WEB DEVELOPER (Front-end: React JS, Back-end: Ruby on Rails)
 
 ##### B.Sc. in Computer Science & Engineering at Khulna University of Engineering & Technology (KUET)
